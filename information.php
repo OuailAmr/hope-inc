@@ -62,11 +62,11 @@ if(isset($_GET["error"])){
         <div class="navigation">
         <ul class="navbar-nav">
           <li class="nav-item"><a class="nav-link active" aria-current="page" href="index.php">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-          <li class="nav-item"><a class="nav-link" href="#testimonials"> Testimonials</a></li>
-          <li class="nav-item"><a class="nav-link" href="#faq" style="text-transform:uppercase;">faq</a></li>
-          <li class="nav-item"><a class="nav-link" href="#portfolio">portfolio</a></li>
-          <li class="nav-item"><a class="nav-link" href="#contact">contact</a>
+          <li style="visibility:hidden;" class="nav-item"><a class="nav-link" href="#services">Services</a></li>
+          <li style="visibility:hidden;" class="nav-item"><a class="nav-link" href="#testimonials"> Testimonials</a></li>
+          <li style="visibility:hidden;" class="nav-item"><a class="nav-link" href="#faq" style="text-transform:uppercase;">faq</a></li>
+          <li style="visibility:hidden;" class="nav-item"><a class="nav-link" href="#portfolio">portfolio</a></li>
+          <li style="visibility:hidden;" class="nav-item"><a class="nav-link" href="#contact">contact</a>
           </li>
         </ul>
       </div>
