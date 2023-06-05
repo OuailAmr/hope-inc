@@ -457,7 +457,9 @@ But don't just take our word for it. The responsible of USTHB had this to say ab
     </div>
   </div>
 </footer>
-    
+	    </div>
+	    </div>
+	    
     <div class="modal" id="myModal2">
 <section class="user-login section">
 	<div class="container formsec">
